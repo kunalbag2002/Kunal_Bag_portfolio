@@ -25,7 +25,7 @@ const projects = [
     title: "North Face Site",
     description:
       "A North Face clone website built with React and TypeScript.",
-    image: "/projects/project4.png",
+    image: "/projects/project3.png",
     tags: ["React", "typescript"],
     demoUrl: "https://north-face-project.vercel.app/",
     githubUrl: "https://github.com/kunalbag2002/North-Face_project",
@@ -35,7 +35,7 @@ const projects = [
     title: "ChatBot Application",
     description:
       "details about project will be updated soon...",
-    image: "/projects/project3.png",
+    image: "/projects/project4.png",
     tags: ["Python", "typescript"],
     demoUrl: "",
     githubUrl: "https://github.com/kunalbag2002/chatbot-fullstack",
@@ -119,4 +119,5 @@ export const ProjectsSection = () => {
     </section>
   );
 };
+
 
